@@ -1,0 +1,12 @@
+"resources": [
+  {
+    "type": "Microsoft.Storage/storageAccounts",
+    "apiVersion": "2022-09-01",
+    "name": "csg100420031e0e2365",
+    "location": "centralindia",
+    "sku": {
+      "name": "Standard_LRS"
+    },
+    "kind": "storageV2"
+  },
+]
